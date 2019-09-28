@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.illud.samplework"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "samplework",
+    "packageName": "com.illud.samplework",
+    "packageFolder": "com/illud/samplework",
+    "serverPort": "8082",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzZiZWFmNTY5YTQ0YTU3YzJhM2JhNTIwZWU2OGFiZjM5Nzc3OTA5M2RmMjNlNWVjMjBhNzhkNzYzOTU4ZmZmMmUzNDI2MzQzNTAwMGM1MWY4NTdkOTRmNjZmODk2MDU4ZDgyODAyY2VjOGVjOTA4ODg3ZmEyZDM3MzM3OTRjMTc=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
